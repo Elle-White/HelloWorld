@@ -1,0 +1,11 @@
+// declare class hello world
+
+ public class HelloWorld {
+ 
+     public static void main(String[] args) {
+         
+        //Screen output for Hello World   
+        
+         System.out.println("Hello World!"); 
+         }
+        }
